@@ -1,5 +1,6 @@
 ---
 title: Blogging on GitHub Pages
+hn: 21912957
 ---
 This blog is hosted on [GitHub Pages](https://pages.github.com/). You can see the source… well, you can see the source in your browser, of course, this being a website and all. But I'm using software called [Jekyll](https://jekyllrb.com/) to generate the website, and you can see the input for this generator at [github.com/kairathmann/kai.codes](https://github.com/kairathmann/kai.codes).
 
