@@ -1,5 +1,6 @@
 ---
 title: Moving from Simplenote to Notational FZF
+hn: 21912293
 ---
 Having recently [chosen Vim](choosing-vim) as my new text editor, I needed to re-evaluate my note-taking system. Up to that point, I had been using [Simplenote](https://simplenote.com/). Simplenote is a plaintext note-taking system that uses the first line of every note as the title – simple. It supports full-text search and tagging. Available as an app on desktop and mobile, Simplenote stores notes in its own cloud.
 
