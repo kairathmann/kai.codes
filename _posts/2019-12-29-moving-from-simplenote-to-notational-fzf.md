@@ -28,4 +28,4 @@ I have used Notational FZF for a few weeks now and really enjoy it. I have confi
 
 Notational FZF only covers searching for and creating notes. To delete the current note, I learned the Vim command `:call delete(@%)`. To rename the current note, I use the Vim plugin [rename.vim](https://github.com/danro/rename.vim) and its command `:Rename`.
 
-In an upcoming post, I will describe how I replaced Simplenote on my iPhone.
+In an [upcoming post](choosing-1writer), I will describe how I replaced Simplenote on my iPhone.
