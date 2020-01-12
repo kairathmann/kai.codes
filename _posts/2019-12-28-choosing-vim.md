@@ -1,6 +1,3 @@
----
-hn: 21908645
----
 When I decided to learn touch typing five years ago, I knew it would slow down my typing for a while. So I chose that time to also learn a new keyboard layout, [Colemak](https://colemak.com/). It was the one good time to switch to an optimized layout. This year, I wanted to learn to use a text editor more efficiently. It was a good time to choose an optimized editor.
 
 I hadn't previously learned a text editor deeply. Apart from generic copy/paste, undo/redo, select all, and skip across words, I could use multiple cursors in the text editor Sublime Text and some keyboard shortcuts in the software development environment IntelliJ.

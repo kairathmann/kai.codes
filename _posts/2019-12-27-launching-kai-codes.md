@@ -1,6 +1,5 @@
 ---
 title: Launching kai.codes
-hn: 21908268
 ---
 Welcome to my new blog. My name is Kai Rathmann, and I'm a software engineer. Today, I'm launching kai.codes with the tentative tagline "a beginner's journey in tech".
 
