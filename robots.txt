@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /privacy
-Disallow: /privacy/
-Disallow: /privacy.html
-Disallow: /privacy.html/
